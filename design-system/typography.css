@@ -1,0 +1,504 @@
+.typographyDisplayXsLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayXsRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayXsBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplaySmLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplaySmRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplaySmBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayMdLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayMdRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayMdBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayLgLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayLgRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayLgBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayXlLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayXlRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplayXlBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplay2xlLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 72px;
+  line-height: 90px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplay2xlRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 90px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplay2xlBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 90px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplay3xlLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 96px;
+  line-height: 108px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplay3xlRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 108px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDisplay3xlBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 108px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXsLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXsRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXsBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextSmLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextSmRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextSmBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextMdLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextMdRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextMdBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextLgLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextLgRegular 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextLgBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXlLight 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXlRegular 
+ {
+  
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextXlBold 
+ {
+  
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
